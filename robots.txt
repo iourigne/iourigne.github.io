@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iourigne.github.io/sitemap.html.gz
+Sitemap: https://iourigne.github.io/app/sitemap.html.gz
+Sitemap: https://iourigne.github.io/assets/sitemap.html.gz
+Sitemap: https://iourigne.github.io/css/sitemap.html.gz
+Sitemap: https://iourigne.github.io/includes/sitemap.html.gz
+Sitemap: https://iourigne.github.io/item/sitemap.html.gz
+Sitemap: https://iourigne.github.io/src/sitemap.html.gz
